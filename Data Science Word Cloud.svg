@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<text transform="translate(548,785) rotate(-90)" font-size="100" style="fill:rgb(88, 199, 101)">Random Forest</text>
+<text transform="translate(849,282)" font-size="100" style="fill:rgb(86, 198, 103)">XGBoost</text>
+<text transform="translate(38,869)" font-size="99" style="fill:rgb(72, 32, 113)">Machine Learning</text>
+<text transform="translate(246,116)" font-size="99" style="fill:rgb(72, 33, 115)">Ŷ</text>
+<text transform="translate(976,685)" font-size="99" style="fill:rgb(70, 10, 93)">Parquet</text>
+<text transform="translate(89,696)" font-size="99" style="fill:rgb(68, 191, 112)">Pandas</text>
+<text transform="translate(882,574)" font-size="99" style="fill:rgb(33, 165, 133)">Scikit Learn</text>
+<text transform="translate(550,77)" font-size="97" style="fill:rgb(99, 203, 95)">Correlation Matrix</text>
+<text transform="translate(143,571)" font-size="97" style="fill:rgb(48, 106, 142)">R²</text>
+<text transform="translate(589,427)" font-size="97" style="fill:rgb(72, 37, 118)">Drift detection</text>
+<text transform="translate(590,164)" font-size="97" style="fill:rgb(152, 216, 62)">Jupyter Notebook</text>
+<text transform="translate(548,791)" font-size="92" style="fill:rgb(71, 17, 100)">Normal distribution</text>
+<text transform="translate(23,266)" font-size="92" style="fill:rgb(239, 229, 28)">F1 Score</text>
+<text transform="translate(1049,880)" font-size="92" style="fill:rgb(53, 94, 141)">ROC Curve</text>
+<text transform="translate(344,605) rotate(-90)" font-size="92" style="fill:rgb(31, 162, 135)">Token</text>
+<text transform="translate(145,191) rotate(-90)" font-size="92" style="fill:rgb(52, 182, 121)">SQL</text>
+<text transform="translate(552,346)" font-size="83" style="fill:rgb(157, 217, 59)">Gaussian distribution</text>
+<text transform="translate(69,764) rotate(-90)" font-size="83" style="fill:rgb(55, 90, 140)">Ensembles</text>
+<text transform="translate(675,701) rotate(-90)" font-size="83" style="fill:rgb(69, 56, 130)">Logit</text>
+<text transform="translate(78,764)" font-size="83" style="fill:rgb(57, 86, 140)">Optuna</text>
+<text transform="translate(685,480)" font-size="69" style="fill:rgb(72, 27, 109)">Support Vector Machine</text>
+<text transform="translate(1079,210)" font-size="59" style="fill:rgb(82, 197, 105)">Neural Network</text>
+<text transform="translate(1,300)" font-size="43" style="fill:rgb(56, 88, 140)">Supervised learning</text>
+<text transform="translate(880,719) rotate(-90)" font-size="43" style="fill:rgb(31, 158, 137)">CSV</text>
+<text transform="translate(143,545) rotate(-90)" font-size="43" style="fill:rgb(62, 76, 138)">Precision</text>
+<text transform="translate(624,248)" font-size="43" style="fill:rgb(42, 120, 142)">Quantile</text>
+<text transform="translate(767,612)" font-size="43" style="fill:rgb(173, 220, 48)">Recall</text>
+<text transform="translate(375,397)" font-size="43" style="fill:rgb(33, 144, 141)">Box plot</text>
+<text transform="translate(582,721) rotate(-90)" font-size="43" style="fill:rgb(70, 50, 126)">Scatter plot</text>
+<text transform="translate(1031,619)" font-size="43" style="fill:rgb(57, 85, 140)">Naive Bayes</text>
+<text transform="translate(752,739) rotate(-90)" font-size="43" style="fill:rgb(46, 111, 142)">Regression</text>
+<text transform="translate(105,581) rotate(-90)" font-size="43" style="fill:rgb(32, 146, 140)">ElasticNet</text>
+<text transform="translate(1206,710)" font-size="32" style="fill:rgb(162, 218, 55)">Predictive Analytics</text>
+<text transform="translate(239,191)" font-size="32" style="fill:rgb(117, 208, 84)">Seaborn</text>
+<text transform="translate(191,152)" font-size="32" style="fill:rgb(43, 116, 142)">Tensor Flow</text>
+<text transform="translate(469,750) rotate(-90)" font-size="32" style="fill:rgb(31, 151, 139)">Area under curve</text>
+<text transform="translate(921,798) rotate(-90)" font-size="32" style="fill:rgb(218, 227, 25)">Average</text>
+<text transform="translate(1262,239)" font-size="31" style="fill:rgb(59, 187, 117)">Anonymization</text>
+<text transform="translate(375,618) rotate(-90)" font-size="31" style="fill:rgb(103, 204, 92)">Model Evaluation</text>
+<text transform="translate(1338,599)" font-size="31" style="fill:rgb(38, 129, 142)">Clustering</text>
+<text transform="translate(361,895)" font-size="31" style="fill:rgb(173, 220, 48)">Data Lake</text>
+<text transform="translate(1262,274)" font-size="31" style="fill:rgb(101, 203, 94)">Hyper-parameters</text>
+<text transform="translate(433,187) rotate(-90)" font-size="31" style="fill:rgb(168, 219, 52)">predict()</text>
+<text transform="translate(1340,820)" font-size="31" style="fill:rgb(36, 170, 131)">BeautifulSoup</text>
+<text transform="translate(545,205)" font-size="31" style="fill:rgb(31, 154, 138)">NumPy</text>
+<text transform="translate(602,891)" font-size="28" style="fill:rgb(202, 225, 31)">Mean squared error</text>
+<text transform="translate(698,203)" font-size="21" style="fill:rgb(70, 7, 90)">Mean squared logarithmic error</text>
+<text transform="translate(410,637) rotate(-90)" font-size="21" style="fill:rgb(246, 230, 32)">Data augmentation</text>
+<text transform="translate(488,274) rotate(-90)" font-size="21" style="fill:rgb(72, 22, 104)">Data Enrichment</text>
+<text transform="translate(599,715) rotate(-90)" font-size="21" style="fill:rgb(72, 29, 111)">Web scraping</text>
+<text transform="translate(44,145) rotate(-90)" font-size="21" style="fill:rgb(241, 229, 29)">Histogram</text>
+<text transform="translate(186,211) rotate(-90)" font-size="21" style="fill:rgb(71, 45, 123)">ARIMA</text>
+<text transform="translate(43,888)" font-size="21" style="fill:rgb(68, 57, 131)">Artificial Intelligence</text>
+<text transform="translate(266,632) rotate(-90)" font-size="21" style="fill:rgb(39, 126, 142)">Unsupervised learning</text>
+<text transform="translate(1444,659)" font-size="21" style="fill:rgb(96, 202, 96)">JSON</text>
+<text transform="translate(225,477) rotate(-90)" font-size="21" style="fill:rgb(42, 120, 142)">Pickle</text>
+<text transform="translate(168,481) rotate(-90)" font-size="21" style="fill:rgb(38, 130, 142)">Matplotlib</text>
+<text transform="translate(17,231) rotate(-90)" font-size="21" style="fill:rgb(59, 81, 139)">Confusion Matrix</text>
+<text transform="translate(26,18)" font-size="21" style="fill:rgb(33, 165, 133)">Kolmogorov-Smirnov</text>
+<text transform="translate(728,286)" font-size="21" style="fill:rgb(68, 2, 86)">Median</text>
+<text transform="translate(461,189) rotate(-90)" font-size="21" style="fill:rgb(62, 76, 138)">Data cleansing</text>
+<text transform="translate(442,573) rotate(-90)" font-size="21" style="fill:rgb(72, 27, 109)">Compression</text>
+<text transform="translate(655,807)" font-size="21" style="fill:rgb(34, 141, 141)">Ethics</text>
+<text transform="translate(398,817) rotate(-90)" font-size="21" style="fill:rgb(60, 80, 139)">Quality</text>
+<text transform="translate(1304,496)" font-size="20" style="fill:rgb(66, 64, 134)">Missing Data Imputation</text>
+<text transform="translate(1519,425)" font-size="20" style="fill:rgb(46, 109, 142)">API</text>
+<text transform="translate(180,74)" font-size="20" style="fill:rgb(56, 185, 119)">Spark</text>
+<text transform="translate(1588,256) rotate(-90)" font-size="20" style="fill:rgb(72, 23, 105)">Decision Tree</text>
+<text transform="translate(710,693) rotate(-90)" font-size="20" style="fill:rgb(59, 81, 139)">Gradient Boosting</text>
+<text transform="translate(1448,640)" font-size="20" style="fill:rgb(70, 48, 126)">K-Means</text>
+<text transform="translate(1021,809)" font-size="20" style="fill:rgb(59, 81, 139)">Classification</text>
+<text transform="translate(971,673) rotate(-90)" font-size="20" style="fill:rgb(127, 211, 78)">fit()</text>
+<text transform="translate(71,192) rotate(-90)" font-size="20" style="fill:rgb(71, 19, 101)">Data Pipeline</text>
+<text transform="translate(325,151) rotate(-90)" font-size="20" style="fill:rgb(236, 229, 27)">Time series</text>
+<text transform="translate(191,478) rotate(-90)" font-size="20" style="fill:rgb(68, 57, 131)">True positive</text>
+<text transform="translate(899,180)" font-size="20" style="fill:rgb(165, 219, 54)">True negative</text>
+<text transform="translate(1298,547) rotate(-90)" font-size="20" style="fill:rgb(44, 115, 142)">Decryption</text>
+<text transform="translate(243,495) rotate(-90)" font-size="20" style="fill:rgb(208, 225, 28)">Train-Test Split</text>
+<text transform="translate(926,427) rotate(-90)" font-size="20" style="fill:rgb(39, 126, 142)">ETL</text>
+<text transform="translate(736,92)" font-size="18" style="fill:rgb(31, 158, 137)">Principal Component Analysis</text>
+<text transform="translate(160,240) rotate(-90)" font-size="18" style="fill:rgb(66, 64, 134)">Big Data</text>
+<text transform="translate(1339,92)" font-size="18" style="fill:rgb(32, 163, 134)">Data Catalog</text>
+<text transform="translate(896,778) rotate(-90)" font-size="18" style="fill:rgb(51, 99, 141)">Logarithm</text>
+<text transform="translate(257,711)" font-size="18" style="fill:rgb(33, 145, 140)">Accuracy</text>
+<text transform="translate(474,425) rotate(-90)" font-size="18" style="fill:rgb(72, 22, 104)">Covariance</text>
+<text transform="translate(16,715) rotate(-90)" font-size="18" style="fill:rgb(72, 26, 108)">Feature engineering</text>
+<text transform="translate(841,498)" font-size="18" style="fill:rgb(41, 121, 142)">Feature selection</text>
+<text transform="translate(1026,894)" font-size="17" style="fill:rgb(59, 81, 139)">Hypothesis testing</text>
+<text transform="translate(782,726) rotate(-90)" font-size="17" style="fill:rgb(72, 29, 111)">Aggregation</text>
+<text transform="translate(487,708) rotate(-90)" font-size="17" style="fill:rgb(31, 149, 139)">Replication</text>
+<text transform="translate(1275,572) rotate(-90)" font-size="17" style="fill:rgb(55, 184, 120)">Data wrangling</text>
+<text transform="translate(1403,363)" font-size="17" style="fill:rgb(42, 119, 142)">Feature Engineering</text>
+<text transform="translate(389,536) rotate(-90)" font-size="17" style="fill:rgb(36, 134, 142)">Outlier</text>
+<text transform="translate(285,450) rotate(-90)" font-size="17" style="fill:rgb(69, 4, 87)">Stratified KFold</text>
+<text transform="translate(833,778) rotate(-90)" font-size="17" style="fill:rgb(253, 231, 37)">Cross validation</text>
+<text transform="translate(140,253)" font-size="17" style="fill:rgb(32, 146, 140)">BoxCox</text>
+<text transform="translate(931,707)" font-size="17" style="fill:rgb(176, 221, 47)">Hierarchical Clustering</text>
+<text transform="translate(1561,663) rotate(-90)" font-size="17" style="fill:rgb(55, 91, 141)">SciPy</text>
+<text transform="translate(1406,675)" font-size="17" style="fill:rgb(70, 192, 111)">False positive</text>
+<text transform="translate(723,710) rotate(-90)" font-size="17" style="fill:rgb(31, 151, 139)">False negative</text>
+<text transform="translate(806,717) rotate(-90)" font-size="17" style="fill:rgb(53, 95, 141)">Encryption</text>
+<text transform="translate(1260,591) rotate(-90)" font-size="17" style="fill:rgb(57, 85, 140)">Normalization</text>
+<text transform="translate(303,208)" font-size="16" style="fill:rgb(56, 88, 140)">Batch processing</text>
+<text transform="translate(1395,893)" font-size="15" style="fill:rgb(48, 106, 142)">One-hot encoding</text>
+</svg>
